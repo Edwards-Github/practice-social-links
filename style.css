@@ -89,6 +89,12 @@ body {
   margin-bottom: 20px;
 }
 
+.button:hover {
+  cursor: pointer;
+  color: black;
+  background-color: hsl(75, 94%, 57%);
+}
+
 .github {
   grid-area: github;
 }
